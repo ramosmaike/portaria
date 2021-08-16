@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="0" max="32767" attributes="0"/>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="210" max="-2" attributes="0"/>
+              <Component id="jRadioButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="226" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jScrollPane1" min="-2" pref="367" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jRadioButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="8" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextPane" name="jTextPane1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Ultima atualiza&#xe7;&#xe3;o: 01 de novembro de 2020!&#xa;&#xa;Ao acessar ou utilizar os servi&#xe7;os do aplicativo CadastroCondominio, utilizando-se de qualquer meio de acesso, incluindo aparelhos m&#xf3;veis, celulares, tablets, computadores pessoais, navegadores de internet e demais meios de acesso que vierem a ser desenvolvidos, voc&#xea; (&#x201c;Usu&#xe1;rio&#x201d;), na qualidade de pessoa f&#xed;sica ou jur&#xed;dica, leu, entendeu, concorda e aceita (e tem a capacidade jur&#xed;dica para tanto) as presentes cl&#xe1;usulas e condi&#xe7;&#xf5;es, vinculando-se e obrigando-se ao presente termo de uso (&#x201c;Termo de Uso&#x201d;) e principalmente consentindo com o acesso, coleta, uso, armazenamento, tratamento e t&#xe9;cnicas de prote&#xe7;&#xe3;o &#xe0;s informa&#xe7;&#xf5;es do Usu&#xe1;rio para a integral execu&#xe7;&#xe3;o das funcionalidades ofertadas.&#xa;&#xa;Ao clicar no bot&#xe3;o &#x201c;Declaro estar de acordo com os Termos e Condi&#xe7;&#xf5;es&#x201d; e completar o processo de cadastro no software, seja atrav&#xe9;s no website do ou aplicativo, o usu&#xe1;rio reconhece que revisou e aceitou este termo e que est&#xe1; autorizado pelo titular desta conta a agir em seu nome e a se vincular a estes termos.&#xa;&#xa;Considera&#xe7;&#xf5;es preliminares&#xa;&#xa;Considerando que a legisla&#xe7;&#xe3;o tribut&#xe1;ria brasileira autoriza que empreendedores tenham v&#xe1;rios tipos jur&#xed;dicos em suas empresas, bem como diferentes regimes de tributa&#xe7;&#xe3;o.&#xa;&#xa;Considerando que a empresa (CNPJ) objeto deste contrato pode mudar de regime tribut&#xe1;rio anualmente por regra, e, excepcionalmente, de acordo com os limites e proibi&#xe7;&#xf5;es de perman&#xea;ncia nos regimes tribut&#xe1;rios, Simples Nacional, Lucro Presumido, Lucro Real e Lucro Arbitrado.&#xa;&#xa;Considerando que a legisla&#xe7;&#xe3;o tribut&#xe1;ria confere ao CadastroCondom&#xed;nio uma s&#xe9;rie de flexibilidades, como a dispensa da emiss&#xe3;o de notas fiscais nas vendas &#xe0; pessoa f&#xed;sica e que n&#xe3;o determina explicitamente a necessidade de controle de caixa, embora exija que todo CadastroCondom&#xed;nio informe sua receita mensal em relat&#xf3;rio espec&#xed;fico, declara&#xe7;&#xe3;o anual e armazenamento das notas fiscais de compras, al&#xe9;m de outras obriga&#xe7;&#xf5;es, algumas das quais constituem servi&#xe7;os prestados por esta empresa.&#xa;&#xa;&#xa;Considerando que &#xe9; poss&#xed;vel a obten&#xe7;&#xe3;o do CNPJ para o CadastroCondom&#xed;nio gratuitamente atrav&#xe9;s dos &#xf3;rg&#xe3;os p&#xfa;blicos sem o apoio de assessoria especializada, ressaltamos que os servi&#xe7;os prestados pelo CadastroCondom&#xed;nio s&#xe3;o de car&#xe1;ter privado e opcional.&#xa; &#xa;&#xa;Dos Servi&#xe7;os Prestados:&#xa;&#xa;&#x9;1) A cadastroCondominio n&#xe3;o se responsabiliza, expressa ou tacitamente, pelo uso indevido das informa&#xe7;&#xf5;es, dos instrumentos, dos materiais disponibilizados e/ou dos equipamentos utilizados por este aplicativo, para quaisquer que sejam os fins, feitos por qualquer usu&#xe1;rio, sendode inteira responsabilidade deste as eventuais les&#xf5;es a direito pr&#xf3;prio ou de terceiros, causados ou n&#xe3;o por este uso inadequado.&#xa;&#x9;2) O usu&#xe1;rio assumir&#xe1; todos os riscos e se responsabiliza por quaisquer danos ou prejuizos causados pelo uso de qualquer material, texto ou arquivo obtido no Direito Virtual, assim como compromete a n&#xe3;o alterar os dados identificadores dos direitos autorais do Direito Virtual ou de seus titulares originalmente citados, sob pena de incorrer do crime de falsidade ideol&#xf3;gica tipificado no Art.  299, do C&#xf3;digo Penal Brasileiro.&#xa;&#x9;3) Em nenhum circunst&#xe2;ncia, a CadastroCondominio, seus diretores ou funcion&#xe1;rios ser&#xe3;o respons&#xe1;veis por qualquer danos, perdas ou despesas oriundas da conex&#xe3;o com esse aplocativo, da incapacidade de uso por qualquer parte, da falha de desempenho, erro, interrup&#xe7;&#xe3;o, defeito ou demora na opera&#xe7;&#xe3;o ou tranmiss&#xe3;o, c&#xed;rus de computador ou falha no sistema, mesmo que a Cadastrocondominio ou seus representantes estejam avisados da possibilidade de tais danos, perdas ou despesas.&#xa;&#x9;4) O provisionamento adequado de todos os recursos da internet necess&#xe1;rios ao acesso aplicativo, sem exce&#xe7;&#xe3;o, &#xe9; de inteira responsabilidade do usu&#xe1;rio do aplicativo.&#xa;&#x9;5) A disponibiliza&#xe7;&#xe3;o dos conte&#xfa;dos no aplicativo, pela CadastroCondominio n&#xe3;o tem car&#xe1;ter gratuito para os operadoras, de modo geral, exige inscri&#xe7;&#xe3;o pr&#xe9;via ou registro, sem exce&#xe7;&#xf5;es.  &#xa;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JRadioButton" name="jRadioButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ok, li os termos apresentados e estou de acordo"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton1ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
